@@ -1,4 +1,3 @@
 
-conflict 2
-feature 1
+conflict from changing the same file this is unnecessary 
 
