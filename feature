@@ -1,1 +1,1 @@
-conflict 2
+conflict from changing the same file this is unnecessary 
